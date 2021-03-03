@@ -1,5 +1,8 @@
 This is a test File
 This is another line
 This line was added
-This is in a new branch called testbranch !!
-
+This is the master branch !!!
+Not this is branch3
+This is in a new branch called testbranch
+This is in testbranch2 !!!
+This should be fine now ...
